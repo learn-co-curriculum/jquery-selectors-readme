@@ -33,7 +33,7 @@ $('selector-goes-here')
 
 In between the quotation marks, you place your selector. Just like in CSS, there are many types of selectors. Let's dive into a few.
 
-You'll want to have `index.html` open in the browser, with the console open.
+You'll want to have `index.html` open in the browser, with the console open. {{{ if "opening index.html in the browser" is supposed to be accomplished by running HTTPSERVER at the IDE command prompt and copying that URL into a new browser window, I would suggest you spell that out.  Otherwise looking at the IDE directory tree in the left panel of the IDE, it isn't intuitively clear how to open index.html.  Whenever I rightclick on it, get the choice to 'See in Explorer' (Windows) and then right click to open in G Chrome, I get 5+ red error messages mocha.css, mocha.js not found, etc.}}}
 
 ### Element Selector
 
@@ -123,6 +123,8 @@ If you take a look at `js/selectors.js`, you'll notice we don't have a document 
 
 ## Resources
 
-+ [MDN jQuery Selectors](https://api.jquery.com/category/selectors/)
++ [MDN jQuery Selectors](https://api.jquery.com/category/selectors/)  {{{ this does not point to MDN}}}
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/jquery-selectors-readme'>jQuery Selectors </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/jquery-selectors-readme'>jQuery Selectors Lab</a> on Learn.co and start learning to code for free.</p>
